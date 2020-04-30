@@ -5,9 +5,9 @@
 На тестирование затрачено: 1 час 30 мин.
 
 В результате тестирования выявлены следующие дефекты:
-* [Ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6](https://github.com/TanyaKomyakova/KeyValidator/issues/1)
-* [Ключ 387eedc6-12e9-3b32-9881-63b6b5e85317](https://github.com/TanyaKomyakova/KeyValidator/issues/2)
-* [Ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/TanyaKomyakova/KeyValidator/issues/3)
+* [Номер карты American Express (AMEX): 342888405642369 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/1)
+* [Номер карты American Express (AMEX): 371355407704690 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/2)
+* [Номер карты Diners Club - International: 36958690155756 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/3)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:

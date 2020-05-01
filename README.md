@@ -5,9 +5,10 @@
 На тестирование затрачено: 1 час 30 мин.
 
 В результате тестирования выявлены следующие дефекты:
-* [Номер карты American Express (AMEX): 342888405642369 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/1)
-* [Номер карты American Express (AMEX): 371355407704690 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/2)
-* [Номер карты Diners Club - International: 36958690155756 не проходит валидацию](https://github.com/TanyaKomyakova/testcart/issues/3)
+* [Номера карт, состоящих из 15 символов](https://github.com/TanyaKomyakova/testcart/issues/2)
+* [Номера карт, состоящих из 14 символов](https://github.com/TanyaKomyakova/testcart/issues/3)
+* [Номера карт, состоящих из 19 символов](https://github.com/TanyaKomyakova/testcart/issues/4)
+* [Номера карт, состоящих из 18 символов](https://github.com/TanyaKomyakova/testcart/issues/5)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
@@ -18,11 +19,25 @@
 В качестве тестовых данных использовались предоставленные для проверки номера банковских карт различных платежных систем :
 * VISA: 4916428415374063;
 * VISA: 4539388878168674;
+* VISA: 4916504197545797;
 * MasterCard: 5133384111503683;
 * MasterCard: 5469210461602342;
+* MasterCard: 5492825396952651
 * American Express (AMEX): 342888405642369;
 * American Express (AMEX): 371355407704690;
-* Diners Club - International: 36958690155756.
+* American Express (AMEX): 377889148995831;
+* Diners Club - International: 36958690155756;
+* Diners Club - International: 36807615071640;
+* Diners Club - International: 36212771719381;
+* VISA: 4024007139701543063;
+* Discover: 4716601032502505707;
+* JCB: 3543864710932123198;
+* Maestro: 639002008000000000;
+* Maestro: 676196000494451893;
+* Maestro: 676280388855502265.
+
+
+ .
 
 Тестирование производилось в следующем окружении:
 * Windows 7 Максимальная, Service pack1, х64;

@@ -5,10 +5,10 @@
 На тестирование затрачено: 1 час 30 мин.
 
 В результате тестирования выявлены следующие дефекты:
-* [Номера карт, состоящих из 15 символов](https://github.com/TanyaKomyakova/testcart/issues/2)
-* [Номера карт, состоящих из 14 символов](https://github.com/TanyaKomyakova/testcart/issues/3)
-* [Номера карт, состоящих из 19 символов](https://github.com/TanyaKomyakova/testcart/issues/4)
-* [Номера карт, состоящих из 18 символов](https://github.com/TanyaKomyakova/testcart/issues/5)
+* [Номера карт, состоящие из 15 символов](https://github.com/TanyaKomyakova/testcart/issues/2)
+* [Номера карт, состоящие из 14 символов](https://github.com/TanyaKomyakova/testcart/issues/3)
+* [Номера карт, состоящие из 19 символов](https://github.com/TanyaKomyakova/testcart/issues/4)
+* [Номера карт, состоящие из 18 символов](https://github.com/TanyaKomyakova/testcart/issues/5)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
@@ -36,8 +36,6 @@
 * Maestro: 676196000494451893;
 * Maestro: 676280388855502265.
 
-
- .
 
 Тестирование производилось в следующем окружении:
 * Windows 7 Максимальная, Service pack1, х64;
